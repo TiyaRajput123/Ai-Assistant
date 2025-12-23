@@ -1,5 +1,5 @@
 
-# AI Assistant – MERN Stack Project
+# Agentra - AI Assistant
 
 A **smart, interactive AI-powered assistant** web application that lets users communicate using **voice or text input**. The assistant connects with **Google's Gemini API** to provide accurate, intelligent responses in real time. Developed using the **MERN stack (MongoDB, Express, React, Node.js)**, this project demonstrates the power of combining AI, voice technology, and full-stack development into a seamless, intuitive experience.
 
