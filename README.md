@@ -36,6 +36,6 @@ A **smart, interactive AI-powered assistant** web application that lets users co
 | HTTP Client  | Axios                                    |
 | Config       | dotenv                                   |
 
-
+Demo Link: https://ai-assistant-be5g.onrender.com
 
 
